@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>career on swne.xyz</title>
+    <link>https://swne.xyz/tags/career/</link>
+    <description>Recent content in career on swne.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 09 Jul 2022 16:04:16 +0900</lastBuildDate><atom:link href="https://swne.xyz/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Career</title>
+      <link>https://swne.xyz/career/</link>
+      <pubDate>Sat, 09 Jul 2022 16:04:16 +0900</pubDate>
+      
+      <guid>https://swne.xyz/career/</guid>
+      <description>Work Record Buzzvil 2018.07 ~ now CPO </description>
+    </item>
+    
+  </channel>
+</rss>
