@@ -26,7 +26,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -76,7 +76,7 @@ params:
     Content: >
       Welcome to **Sungwon**'s personal user manual.
 
-      - Visit **[career](/career)** page to find my work record.
+      - Visit [Linkedin](https://www.linkedin.com/in/sungwon-lee-627a1448) to find my exeprience and skills.
 
   socialIcons:
     - name: twitter
@@ -94,9 +94,9 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/sungwon-lee-627a1448"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -118,12 +118,12 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: career
-      name: career
-      url: /career
-      weight: 10
+# menu:
+#   main:
+#     - identifier: career
+#       name: career
+#       url: /career
+#       weight: 10
     # - identifier: categories
     #   name: categories
     #   url: /categories/
