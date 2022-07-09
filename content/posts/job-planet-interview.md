@@ -1,7 +1,9 @@
 ---
-title: "Job Planet Interview"
-date: 2022-06-07T16:18:17+09:00
+title: Job Planet Interview
+date: 2022-06-07T16:18:17.000+09:00
+
 ---
+![](/uploads/job-planet-interview.png)
 
 ## 일 잘하는 PM 성장과 커리어 가이드
 
