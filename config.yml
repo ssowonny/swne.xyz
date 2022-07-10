@@ -74,9 +74,14 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: >
-      Welcome to **Sungwon**'s personal user manual.
+      #### Welcome to **Sungwon**'s personal user manual.
 
-      - Visit [Linkedin](https://www.linkedin.com/in/sungwon-lee-627a1448) to find my exeprience and skills.
+      - I've been working as a CPO at [Buzzvil](https://www.buzzvil.com) since 2021.
+      I joined Buzzvil in July 2018 when it acquired my previous startup, 42 Company.
+      Please visit [my Linkedin profile](https://www.linkedin.com/in/sungwon-lee-627a1448) to find out my work experience and skills.
+
+
+
 
   socialIcons:
     - name: twitter
