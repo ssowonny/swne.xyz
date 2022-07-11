@@ -1,5 +1,5 @@
 ---
-title: "Startup Kaist Presentation"
+title: "Startup KAIST Presentation"
 date: 2019-09-24T22:06:33+09:00
 draft: false
 cover:
