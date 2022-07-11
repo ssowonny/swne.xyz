@@ -36,5 +36,78 @@
 영상 일 잘하는 PM 성장과 커리어 가이드 직원의 성장을 이끄는 회사 </description>
     </item>
     
+    <item>
+      <title>EO Youtube Channel</title>
+      <link>https://swne.xyz/posts/eo/</link>
+      <pubDate>Mon, 26 Apr 2021 21:44:17 +0900</pubDate>
+      
+      <guid>https://swne.xyz/posts/eo/</guid>
+      <description>EO 채널에서 진행한 인터뷰에 참여했습니다.
+1편 2편 </description>
+    </item>
+    
+    <item>
+      <title>FEConf 2020 Presentation</title>
+      <link>https://swne.xyz/posts/feconf-2020/</link>
+      <pubDate>Sat, 31 Oct 2020 21:32:06 +0900</pubDate>
+      
+      <guid>https://swne.xyz/posts/feconf-2020/</guid>
+      <description>FEConf 2020 컨퍼런스에서 멀티 모듈 시스템에 대해 발표했습니다.</description>
+    </item>
+    
+    <item>
+      <title>Droid Knights 2020 Presentation</title>
+      <link>https://swne.xyz/posts/droid-knights-2020/</link>
+      <pubDate>Mon, 07 Sep 2020 21:19:22 +0900</pubDate>
+      
+      <guid>https://swne.xyz/posts/droid-knights-2020/</guid>
+      <description>드로이드나이츠 2020 컨퍼런스에서 멀티 모듈 시스템에 대해 발표했습니다.</description>
+    </item>
+    
+    <item>
+      <title>Github Hackathon</title>
+      <link>https://swne.xyz/posts/github-hackathon/</link>
+      <pubDate>Sun, 29 Mar 2020 22:00:09 +0900</pubDate>
+      
+      <guid>https://swne.xyz/posts/github-hackathon/</guid>
+      <description>Github Hackathon에 참여하여 수상했습니다.</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes Forum 2019</title>
+      <link>https://swne.xyz/posts/kubernetes-forum-2019/</link>
+      <pubDate>Mon, 09 Dec 2019 21:37:39 +0900</pubDate>
+      
+      <guid>https://swne.xyz/posts/kubernetes-forum-2019/</guid>
+      <description>Kubernetes Forum 2019 컨퍼런스에서 쿠버네티스에서 레거시 RESTful API를 제공하기 위해 gRPC 서비스 실행 이라는 주제로 발표했습니다.</description>
+    </item>
+    
+    <item>
+      <title>Startup Kaist Presentation</title>
+      <link>https://swne.xyz/posts/startup-kaist/</link>
+      <pubDate>Tue, 24 Sep 2019 22:06:33 +0900</pubDate>
+      
+      <guid>https://swne.xyz/posts/startup-kaist/</guid>
+      <description>카이스트에서 스타트업이 개발자에게 알려주지 않는 진실 n가지 라는 주제로 발표했습니다.</description>
+    </item>
+    
+    <item>
+      <title>Open Ads News</title>
+      <link>https://swne.xyz/posts/open-ads-news/</link>
+      <pubDate>Fri, 09 Aug 2019 22:11:12 +0900</pubDate>
+      
+      <guid>https://swne.xyz/posts/open-ads-news/</guid>
+      <description>OpenAds에 &amp;ldquo;복잡한 디지털 광고 시장 이해하기&amp;rdquo; 라는 주제로 기사를 기고했습니다.</description>
+    </item>
+    
+    <item>
+      <title>Mobiinside News</title>
+      <link>https://swne.xyz/posts/mobiinside-news/</link>
+      <pubDate>Fri, 09 Aug 2019 21:26:08 +0900</pubDate>
+      
+      <guid>https://swne.xyz/posts/mobiinside-news/</guid>
+      <description>모바인사이드에 &amp;ldquo;버즈빌의 소프트웨어 아키텍트는 어떤 일을 할까?&amp;rdquo; 라는 주제로 기사를 기고했습니다.</description>
+    </item>
+    
   </channel>
 </rss>
