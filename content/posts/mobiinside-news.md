@@ -1,5 +1,5 @@
 ---
-title: "Mobiinside News"
+title: "Mobi Inside News"
 date: 2019-08-09T21:26:08+09:00
 draft: false
 cover:
