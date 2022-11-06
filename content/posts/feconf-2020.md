@@ -8,4 +8,4 @@ cover:
 
 ---
 
-[FEConf 2020](https://2020.feconf.kr/) 컨퍼런스에서 [멀티 모듈 시스템](https://youtu.be/6C9zyLioTOU)에 대해 발표했습니다.
+[FEConf 2020](https://2020.feconf.kr/) 컨퍼런스에서 [gRPC와 GraphQL](https://youtu.be/6C9zyLioTOU)에 대해 발표했습니다.
