@@ -19,7 +19,7 @@ params:
   title: swne.xyz
   description: "Sungwon's Personal User Manual"
   keywords: [Blog, Portfolio]
-  author: ssowonny 
+  author: ssowonny
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
@@ -76,12 +76,8 @@ params:
     Content: >
       #### Welcome to **Sungwon**'s personal user manual.
 
-      - I've been working as a CPO at [Buzzvil](https://www.buzzvil.com) since 2021.
-      I joined Buzzvil in July 2018 when it acquired my previous startup, 42 Company.
-      Please visit [my Linkedin profile](https://www.linkedin.com/in/ssowonny) to find out my work experience and skills.
-
-
-
+      - I'm the CEO of Runbear, the new startup co-founded by me and Liam in Feb 2023. Visit [my Linkedin profile](https://www.linkedin.com/in/ssowonny)
+      to find out my work experience and skills.
 
   socialIcons:
     - name: twitter
@@ -129,14 +125,14 @@ params:
 #       name: career
 #       url: /career
 #       weight: 10
-    # - identifier: categories
-    #   name: categories
-    #   url: /categories/
-    #   weight: 10
-    # - identifier: tags
-    #   name: tags
-    #   url: /tags/
-    #   weight: 20
+#     - identifier: categories
+#       name: categories
+#       url: /categories/
+#       weight: 10
+#     - identifier: tags
+#       name: tags
+#       url: /tags/
+#       weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
