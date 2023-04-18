@@ -6,7 +6,16 @@
     <description>Recent content in Posts on swne.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 17 Mar 2023 15:43:25 +0900</lastBuildDate><atom:link href="https://swne.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Apr 2023 12:03:17 +0900</lastBuildDate><atom:link href="https://swne.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Digital Native Presentation</title>
+      <link>https://swne.xyz/posts/microsoft-digital-native/</link>
+      <pubDate>Tue, 18 Apr 2023 12:03:17 +0900</pubDate>
+      
+      <guid>https://swne.xyz/posts/microsoft-digital-native/</guid>
+      <description>I introduced Runbear to people from Microsoft Digital Native Summit.</description>
+    </item>
+    
     <item>
       <title>New Startup: Runbear</title>
       <link>https://swne.xyz/posts/new-startup-runbear/</link>
